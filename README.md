@@ -1,5 +1,7 @@
 # Seoul Place Recommendation Web
 
+_This project was developed as part of the [Seoul Public Data Utilization MobileApp/Web Competition](https://news.seoul.go.kr/gov/archives/548791) (2023)._
+
 A web-based recommendation system that helps users explore places to visit in Seoul.
 The platform allows users to select a district and receive curated recommendations for places to visit, including attractions, cultural spaces, and exhibitions.
 
@@ -77,4 +79,5 @@ Recommendation-System-for-Seoul
 ├── server.js               # Express backend server
 ├── package.json
 ```
+
 
