@@ -5,6 +5,19 @@ The platform allows users to select a district and receive curated recommendatio
 
 The goal of this project is to provide an intuitive way for users to discover activities and locations within Seoul through a map-based interface.
 
+##### Demo
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/a0b21892-e1ac-40d7-8dab-ca4e0b985a2d" width="550">
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/143d4c06-b2c6-4bf4-868c-bae950512c4f" width="550">
+</td>
+</tr>
+</table>
+
 ---
 ### Overview
 
@@ -64,3 +77,4 @@ Recommendation-System-for-Seoul
 ├── server.js               # Express backend server
 ├── package.json
 ```
+
